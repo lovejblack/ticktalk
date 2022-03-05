@@ -4,7 +4,7 @@
   the source is generated daily and uploaded to [https://github.com/lovejblack/ticktalk]
   [EPISODE ONE] released to the public September 5, 2022.
   a [contributor] downloads episodes and uses the source to create a podcast of thier own.
-    contributor agrees to begin posting episodes only after September 5, 2022.
+    contributor agrees to begin posting episodes ONLY after September 5, 2022.
     contributors post submissions @ [https://www.ticktalk.space/forum] 
       *NEEDS TO BE CREATED
   any [member] can vote on contributor submissions.
