@@ -8,6 +8,6 @@
     contributors post submissions @ [https://github.com/lovejblack/TICKTALKSUBMISSIONS.git] 
   any [member] can vote on contributor submissions.
     the highest voted contributor submission for each episode will be submitted as the official podcast version on apple podcasts 
-    [EPISODE ONE] released to the public @theticktalkpodcast TikTok account 10p pacific, September 5, 2022.
+    [EPISODE ONE] released to the public September 5, 2022.
     
     *i dont know how to make a website that will do the above. I have the ticktalk.space domain if you would like to give a hand.
